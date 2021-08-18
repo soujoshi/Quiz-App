@@ -1,0 +1,136 @@
+[
+  {
+    "question": "How many computer languages are in use?",
+    "optionA": "2000",
+    "optionB": "5000",
+    "optionC": "50",
+    "optionD": "20",
+    "answer": "2000"
+  },
+
+  {
+    "question": "Which of these is not an early computer?",
+    "optionA": "ENIAC",
+    "optionB": "UNIVAC",
+    "optionC": "NASA",
+    "optionD": "SAGE",
+    "answer": "NASA"
+  },
+
+  {
+    "question": "Who founded Apple Computer?",
+    "optionA": "Stephen Fry",
+    "optionB": "Bill Gates",
+    "optionC": "Steve Jobs",
+    "optionD": "Stephen Hawking",
+    "answer": "Steve Jobs"
+  },
+
+  {
+    "question": "Which of the following is not one of the early “protocols,” or ways to use the Internet?",
+    "optionA": "Blogging",
+    "optionB": "Telnet",
+    "optionC": "Gopher",
+    "optionD": "FTP",
+    "answer": "Blogging"
+  },
+
+  {
+    "question": "Which of these is not a kind of computer?",
+    "optionA": "Apple",
+    "optionB": "Lenovo",
+    "optionC": "Toshiba",
+    "optionD": "Lada",
+    "answer": "Lada"
+  },
+
+  {
+    "question": "Which of these products is not made by the Apple Corporation?",
+    "optionA": "IMAX",
+    "optionB": "iPhone",
+    "optionC": "iMac",
+    "optionD": "iPod",
+    "answer": "IMAX"
+  },
+
+  {
+    "question": "What is the name for a computer pointing device?",
+    "optionA": "A Mouse",
+    "optionB": "Sound Card",
+    "optionC": "Ram",
+    "optionD": "Monitor",
+    "answer": "A Mouse"
+  },
+
+  {
+    "question": "What does the roman numeral C represent?",
+    "optionA": "100",
+    "optionB": "10",
+    "optionC": "10,000",
+    "optionD": "1,000,000",
+    "answer": "100"
+  },
+
+  {
+    "question": "Who invented flexible photographic film?",
+    "optionA": "Leonardo da Vinci",
+    "optionB": "Linda Eastman",
+    "optionC": "Louis Daguerre",
+    "optionD": "George Eastman",
+    "answer": "George Eastman"
+  },
+
+  {
+    "question": "When did the compact disc first appear on the market?",
+    "optionA": "1982",
+    "optionB": "1992",
+    "optionC": "1955",
+    "optionD": "1989",
+    "answer": "1982"
+  },
+
+  {
+    "question": "What’s the most important book in the Moslem religion?",
+    "optionA": "The Koran",
+    "optionB": "The Dictionary",
+    "optionC": "The Bible",
+    "optionD": "The Chemistry text Book",
+    "answer": "The Koran"
+  },
+
+  {
+    "question": "What’s the capital of Ethiopia?",
+    "optionA": "Cape Town",
+    "optionB": "San Francisco",
+    "optionC": "Abuja",
+    "optionD": "Syndey",
+    "answer": "Addis Ababa"
+  },
+
+  {
+    "question": "How many squares are there on a chess board?",
+    "optionA": "128",
+    "optionB": "64",
+    "optionC": "32",
+    "optionD": "256",
+    "answer": "64"
+  },
+
+  {
+    "question": "Who invented the electric light bulb?",
+    "optionA": "Tom Cruise",
+    "optionB": "Barack Obama",
+    "optionC": "Wole Soyinka",
+    "optionD": "Thomas Edison",
+    "answer": "Thomas Edison"
+  },
+
+  {
+    "question": "What are the first three words of the bible?",
+    "optionA": "be with everyone",
+    "optionB": "Again Jesus asked",
+    "optionC": "In the beginning",
+    "optionD": "At that time",
+    "answer": "In the beginning"
+  }
+]
